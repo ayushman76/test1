@@ -1,0 +1,159 @@
+@media(max-width:1200px){
+	header{
+		display:none!important;
+	}
+	.wrap_video>iframe{
+		width:100%;
+		height:100%;
+	}
+	.breadcrumb{
+		justify-content: center;
+	}
+	.navlist{
+		display:none;
+		position: relative;
+		top: 25px;
+	}
+	.navbar-brand>img{
+	    display:block;
+	}
+	.item-wrapper{
+		-webkit-box-pack: left!important;
+		    -ms-flex-pack: left!important;
+				-moz-flex-pack: left!important;
+					justify-content: left!important;
+		text-align:left!Important;
+	}
+	.list-wrapper>ul{
+		overflow: scroll;
+		-ms-flex-wrap: nowrap;
+			-moz-flex-wrap:nowrap;
+				-webkit-flex-wrap:nowrap;
+		    flex-wrap: nowrap;
+	}
+	.list-wrapper>ul>li>span{
+		display:none;
+	}
+	
+	.blog-wrapper>img{
+	height: auto!important;
+	width:100%;
+	}
+	textarea{
+	   width:100%!important;
+    }
+	
+	.item-wrapper {
+		justify-content:left !Important;
+		-o-justify-content:left;
+		-webkit-justify-content:left;
+	}
+	
+	.site-wrapper>h2{
+		font-size:40px!Important;
+		
+	}
+	.illustrate {
+		left: 0;
+		width:100%!important;
+		position:relative!important;
+		top: -25px;
+	}
+	.subForm{
+		width: 100%!Important;
+		border-radius:100px!Important;
+	}
+	.plane{
+		width: 384px;
+		position: absolute;
+		z-index: -1;
+		top: 0;
+		margin: 0 auto;
+		left: 0;
+		right: 0;
+		display:none;
+	}
+	.codeImages {
+		position: absolute;
+		top: 76px;
+		margin: 0 auro;
+		margin: 0 auto;
+		left: 70px;
+		display: -webkit-inline-box;
+		display: -ms-inline-flexbox;
+		display: -moz-inline-flexbox;
+		display: inline-flex;
+	}
+	
+	.procode>img {
+		width: 100%;
+	}
+	.bug {
+		top: 1200px;
+		right: 10px;
+	}
+	.curlybraces {
+		top: 44px;
+		right: 40px;
+	}
+	.colors {
+		top: 1800px;
+		left: 60px;
+	}
+	.codeicon {
+		top: 393px;
+		left: -4px;
+	}
+
+	.triangle{
+		top: 1330px;
+		left: 15px;
+	}
+	.question>h1{
+		font-size: 20px!important;
+	}
+	.mypageNav{
+		position: fixed!important;
+		bottom: 0;
+		height: auto;
+		width: 100%;
+		padding: 11px;
+	}
+	.mypageNav>i{
+		position: absolute;
+		font-size: 44px;
+		color: rgb(255 255 255);
+		left: 12px;
+		top: 9px;
+	}
+	.mainmenu{
+		right: 0;
+		top: 0;
+		font-size: 33px;
+		float: right;
+		color: rgb(240 248 255);
+		display:block!important;
+	}
+
+	.mobilelogo{
+		position: absolute;
+		/* margin: 0 auto; */
+		left: 4px;
+		/* right: 50px; */
+		width: 68px;
+		padding: 10px;
+		top: -19px;
+		display:block !important;
+	}
+    .social-list>ul>li{
+		display: -webkit-inline-box;
+		display: -ms-inline-flexbox;
+		display: -moz-inline-flexbox;
+		display: inline-flex;
+	}
+	.codeImages>img {
+		width: 50px !important;
+		display:none;
+	}
+
+}

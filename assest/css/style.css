@@ -1,0 +1,143 @@
+
+*{
+    margin:0;
+    padding:0;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box;
+}
+.row,.navbar{
+	flex-wrap:wrap!important;
+		-moz-flex-wrap:wrap!important;
+			-webkit-flex-wrap:wrap!important;
+				-ms-flex-wrap:wrap!important;
+}
+.navbar-brand>img{
+	    display:none;
+	}
+.cdnlink{
+	overflow:hidden!important;
+}
+.font-25{
+	font-size:25px!important;
+}
+.font-18{
+	font-size:18px!important;
+}.font-20{
+	font-size:20px!important;
+}
+.pro-wrapper>img{
+    object-fit: cover;
+    height: 74px;
+    width: 71%;
+    object-position: center;
+}
+
+.headbar>ul>li{
+	    padding: 10p 100x;
+    background: rgb(255 255 255);
+    border-radius: 100%;
+}
+.blog-wrapper>a>img {
+    height: 193px;
+    width: 100%;
+    object-fit: cover;
+    -o-object-fit: cover;
+		-webkit-object-fit:cover;
+			-moz-object-fit:border-box;
+    object-fit: cover;
+    border-top-left-radius: 10px!important;
+    border-top-right-radius: 10px!important;
+}
+
+.navbar-brand>img{
+	width:60px!important;
+}
+.site-wrapper h2{
+	font-size:65px;
+	font-weight:700;
+}
+.client-pro img{
+	width:100px
+}
+.blog-wrapper{
+	cursor:pointer;
+}
+.illustrate {
+    width: 360px!important;
+    top: 77px;
+    margin: 0 auto;
+    left: 141px;
+}
+.codeImages {
+    position: absolute;
+    right: 225px;
+    top: 120px;
+}
+.codeImages>img {
+    width: 50px!important;
+}
+.item-area>img{
+	height: 138px;
+    width: 100%;
+    -o-object-fit: cover;
+		-webkit-object-fit:cover;
+			-moz-object-fit:cover;
+       object-fit: cover;
+}
+.color01 {
+    position: absolute;
+    top: 50px;
+    margin: 0 auto;
+   
+}
+.mycolorScheme {
+    position: relative;
+    margin: 10px 10px;
+}
+
+#mynewpro>li>a{
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 83%;
+}
+iframe{
+	overflow:hidden;
+}
+.color02 {
+    position: absolute;
+    bottom: 50px;
+    margin: 0 auto;
+  
+}
+.js{
+    -webkit-animation:js 5s linear infinite;
+		-moz-animation:js 5s linear infinite;
+    animation:js 5s linear infinite;
+    top:30px;
+    left:50px
+}
+.html{
+    -webkit-animation:html 4s linear infinite;
+		-moz-animation:html 4s linear infinite;
+    animation:html 4s linear infinite;
+    top:50px;
+    left:70px
+}
+.php{
+    -webkit-animation:php 8s linear infinite;
+		-moz-animation:php 8s linear infinite;
+    animation:php 8s linear infinite;
+    top:10px;
+    left:90px
+}
+.py{
+    -webkit-animation:py 10s linear infinite;
+		-moz-animation:py 10s linear infinite;
+    animation:py 10s linear infinite;
+    top:70px;
+    left:0
+}
+
+

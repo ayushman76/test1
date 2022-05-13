@@ -1,0 +1,153 @@
+{
+	"InterViewQuestion":[
+	   {
+		"JavaScript":[
+			
+			{
+				"question":"(1) What is Prototype in JavaScript ??",
+				"answer":"We can attach new properties to an object at any time as shown below.",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/javascript/code01.png",
+				"codeDownload":""
+			},
+			{
+				"question":"(2) What is Array ??",
+				"answer":"JavaScript arrays are used to store multiple values in a single variable.",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/javascript/code02.png",
+				"codeDownload":""
+			},
+			{
+				"question":"(3) what is closure in javascript ??",
+				"answer":"Closure means that an inner function always has access to the vars and parameters of its outer function, even after the outer function has returned.",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/javascript/code03.png",
+				"codeDownload":""
+			},
+			{
+				"question":"(4) What is BOM in javascript ??",
+				"answer":"The Browser Object Model (BOM) in JavaScript includes the properties and methods for JavaScript to interact with the web browser.BOM Provide us a window object.",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/javascript/code04.png",
+				"codeDownload":""
+			},
+			{
+				"question":"(5) What is DOM in javascript ??",
+				"answer":"The Document Object Model (DOM) is a programming interface for HTML and XML documents.The DOM is an object-oriented representation of the web page, which can be modified with a scripting language such as JavaScript.",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/javascript/code05.png",
+				"codeDownload":""
+			},
+			{
+				"question":"(6) What are the different ways to get an element from DOM? ??",
+				"answer":"You can use the following methods in Element.",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/javascript/code06.png",
+				"codeDownload":""
+			},
+			{
+				"question":"(7) What are the Data Types In JavaScript ??",
+				"answer":"There are two types of data types in JavaScript <br>Primitive Data Types <br> Non-primitive Data Types ",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/javascript/code07.png",
+				"codeDownload":""
+			},
+			{
+				"question":"(8) What is the difference between == and ===?",
+				"answer":"The == operator checks equality of values only whereas === checks equality of values, and data type.",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/javascript/code08.png",
+				"codeDownload":""
+			},
+			{
+				"question":"(9) What does the isNaN() function?",
+				"answer":"The isNan() function returns true if the variable value is not a number. ",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/javascript/code09.png",
+				"codeDownload":""
+			},
+			{
+				"question":"(10) What is the difference between undefined value and null value ?",
+				"answer":"if an variable is blank so that is called undefined,<br>",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/javascript/code10.png",
+				"codeDownload":""
+			},
+			{
+				"question":"(11) How Many operators in javascript ??",
+				"answer":"there are 4 types operator in javascript :",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/javascript/code11.png",
+				"codeDownload":""
+			}
+		
+		]
+	},
+	
+	{
+		"HTMLCss":[
+			{
+				"question":"(1) What is the use of an iframe tag ??",
+				"answer":"An iframe is used to display a web page within a web page. ",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/htmlcss/code02.png",
+				"codeDownload":""
+			},{
+				"question":"(2) What is DOCTYPE in HTML ??",
+				"answer":"<!DOCTYPE html> is represent a version of HTML document.",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/htmlcss/code02.png",
+				"codeDownload":""
+			},{
+				"question":"(3) What is the canvas in HTML5 ??",
+				"answer":"Canvas is JavaScript Based 2d Graphics format.",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/htmlcss/code03.png",
+				"codeDownload":""
+			},{
+				"question":"(4) How To Draw Circle using Canvas ??",
+				"answer":"let's make a circle by using canvas.",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/htmlcss/code04.png",
+				"codeDownload":""
+			},{
+				"question":"(5) What are the different new form element types in HTML 5 ??",
+				"answer":"Following is a list of 9 frequently used new elements in HTML 5:",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/htmlcss/code05.png",
+				"codeDownload":""
+			},{
+				"question":"(6)  What is the difference between class selectors and id selectors ??",
+				"answer":"An overall block is given to class selector while id selectors take only a single element differing from other elements.",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/htmlcss/code06.png",
+				"codeDownload":""
+			},{
+				"question":"(7)  What is the CSS Box model and what are its element? ??",
+				"answer":" CSS Box model Contain margin, padding , border, content.",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/htmlcss/code07.png",
+				"codeDownload":""
+			},{
+				"question":"(8)  Explain the difference between visibility: hidden and display: none ??",
+				"answer":"<b>visibility: hidden</b> hides the element, but it occupies space and affects the layout of the document.<br><b>display: none</b> also hides the element but not occupy space. It will not affect the layout of the document.",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/htmlcss/code08.gif",
+				"codeDownload":""
+			},{
+				"question":"(9) How many type of inline Elements ??",
+				"answer":"An inline element does not start on a new line.",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/htmlcss/code09.png",
+				"codeDownload":""
+			},{
+				"question":"(10) How many type of Block Elements ??",
+				"answer":"An Block Elements is start on a new line.",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/htmlcss/code10.png",
+				"codeDownload":""
+			},{
+				"question":"(11) What are the Diffrent Between HTML 4.0 and HTML 5 ??",
+				"answer":"A datalist with pre-defined options :",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/htmlcss/code11.png",
+				"codeDownload":""
+			},{
+				"question":"(12) What are the difference Between Svg  and Canvas ??",
+				"answer":"<b>SVG:</b> The Scalable Vector Graphics (SVG) is an XML-based image format that is used to define two-dimensional vector-based graphics for the web. Unlike raster image (Ex .jpg, .gif, .png, etc.), a vector image can be scaled up or down to any extent without losing the image quality.<br><br> <b>Canvas:</b> The HTML element is used to draw graphics on the fly, via scripting (usually JavaScript). The element is only a container for graphics. You must use a script to actually draw the graphics. Canvas has several methods for drawing paths, boxes, circles, text, and adding images.",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/htmlcss/code12.png",
+				"codeDownload":""
+			},{
+				"question":"(13) What is Datalist in HTML5??",
+				"answer":"A datalist with pre-defined options (connected to an <input> element):",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/htmlcss/code13.png",
+				"codeDownload":""
+			},{
+				"question":"(14) what is the difference between local storage and session storage  ??",
+				"answer":"sessionStorage is similar to localStorage ; the difference is that while data in localStorage doesn't expire, data in sessionStorage is cleared when the page session ends. ... A page session lasts as long as the tab or the browser is open, and survives over page reloads and restores. ",
+				"code":"https://raw.githubusercontent.com/ansh709/programmingashramserver/main/interviewdata/htmlcss/code14.png",
+				"codeDownload":""
+			}
+		]
+	}
+	
+	]
+}

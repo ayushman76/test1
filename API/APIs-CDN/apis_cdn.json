@@ -1,0 +1,35 @@
+{
+   "Data":[{
+	   "API":[
+		    {
+			  "apiName":"News API",
+		      "apilink":"https://github.com/ansh709/programming-aashram-moke-news-api-for-practie-with-open-APIkey/blob/main/programming-aashram--moke-news-api.json"
+		    },
+			   
+			{
+			  "apiName":"Blog Page API",
+		      "apilink":"https://github.com/ansh709/programming-aashram-moke-news-api-for-practie-with-open-APIkey/blob/main/programming-aashram--moke-blog-api.json"
+		    },
+			{
+			  "apiName":"Facebook Posts API",
+		      "apilink":"https://github.com/ansh709/programming-aashram-moke-news-api-for-practie-with-open-APIkey/blob/main/programming-aashram--moke-employedata-api.json"
+		    }
+	   ],
+	   
+	   "CDN":[
+		    {
+			  "cdnName":"CDN For Website Animation",
+		      "cdns":"https://github.com/ansh709/programming-aashram-moke-news-api-for-practie-with-open-APIkey/blob/2df5a8ae303f5eedf61994765c73e07d0d83b81a/programming-aashram--moke-blog-api.json"
+		    },
+			   
+			{
+			  "cdnName":"CDN For Website StyleSheet",
+		      "cdns":"https://github.com/ansh709/programming-aashram-moke-news-api-for-practie-with-open-APIkey/blob/2df5a8ae303f5eedf61994765c73e07d0d83b81a/programming-aashram--moke-blog-api.json"
+		    },
+			{
+			  "cdnName":"CDN For website Colors",
+		      "cdns":"https://github.com/ansh709/programming-aashram-moke-news-api-for-practie-with-open-APIkey/blob/2df5a8ae303f5eedf61994765c73e07d0d83b81a/programming-aashram--moke-blog-api.json"
+		    }
+	   ]
+   }]
+}
